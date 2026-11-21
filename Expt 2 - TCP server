@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <netinet/in.h>
 
-#define PORT (10000 + 242)
+#define PORT (10000 + 233)
 #define BUF_SIZE 1024
 
 int main()
